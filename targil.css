@@ -1,0 +1,11 @@
+.position {
+    margin-left: 110px;
+}
+
+#image {
+    position: absolute;
+    bottom: 0;
+    transition: bottom 0.5s ease;
+    /* smooth transition */
+}
+
